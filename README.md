@@ -6,6 +6,9 @@
 ### 시각화 프로젝트
    * Iris 데이터 분석해보기 - [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
    
+### plotly를 활용한 타이타닉 데이터 분석하기
+   * 소스코드 - [LINK](https://github.com/jskim3005/AI_class/blob/main/jskim_plotly_Titanic.pdf)
+   
 ### 캐글 데이터 분서거 대회 참여기.
    * 데이터 대회 링크 :
    * 나의 흔적들 1기 : [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
