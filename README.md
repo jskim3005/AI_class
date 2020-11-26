@@ -13,6 +13,11 @@
   
    
 ### 나의 데이터 분석 공부
+   * plotly를 활용한 타이타닉 데이터 분석
+   * datasets:https://www.kaggle.com/c/titanic/data
+   * 데이터 
+   
+###
    * 데이터 링크 : 공공데이터(상권분석)
    * 데이터 탐색
    * 데이터 시각화
